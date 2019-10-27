@@ -1,0 +1,72 @@
+Dependencies for Project 'Project', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.cpp)(0x5A687500)(--cpp -c --cpu Cortex-M4 -D__RTX -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (tm4c123gh6pm.h)(0x51D4235A)
+I (clock.c)(0x59555B66)
+I (timer.c)(0x596AAB9E)
+I (objects.cpp)(0x5A66F94C)
+I (ports.c)(0x5A4BE690)
+I (ADC.c)(0x596AAD00)
+I (uart.c)(0x5A673EC3)
+I (C:\Keil_v5\ARM\ARMCC\include\string)(0x564D8DA6)
+I (C:\Keil_v5\ARM\ARMCC\include\iosfwd)(0x564D8DA6)
+I (C:\Keil_v5\ARM\ARMCC\include\rw\_defs.h)(0x564D8DA6)
+I (C:\Keil_v5\ARM\ARMCC\include\rw\_config.h)(0x564D8DA6)
+I (C:\Keil_v5\ARM\ARMCC\include\rw\config.h)(0x53109984)
+I (C:\Keil_v5\ARM\ARMCC\include\cwchar)(0x588BC28C)
+I (C:\Keil_v5\ARM\ARMCC\include\wchar.h)(0x588BC28C)
+I (C:\Keil_v5\ARM\ARMCC\include\limits)(0x564D8DA6)
+I (C:\Keil_v5\ARM\ARMCC\include\rw\_math.h)(0x564D8DA6)
+I (C:\Keil_v5\ARM\ARMCC\include\cmath)(0x588BC28C)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x588BC28C)
+I (C:\Keil_v5\ARM\ARMCC\include\cfloat)(0x588BC28C)
+I (C:\Keil_v5\ARM\ARMCC\include\float.h)(0x588BC28C)
+I (C:\Keil_v5\ARM\ARMCC\include\climits)(0x588BC28C)
+I (C:\Keil_v5\ARM\ARMCC\include\limits.h)(0x588BC28C)
+I (C:\Keil_v5\ARM\ARMCC\include\rw\_algobase.h)(0x564D8DA6)
+I (C:\Keil_v5\ARM\ARMCC\include\utility)(0x4EB1EA2E)
+I (C:\Keil_v5\ARM\ARMCC\include\rw\_iterator.h)(0x564D8DA6)
+I (C:\Keil_v5\ARM\ARMCC\include\rw\_iterbase.h)(0x564D8DA6)
+I (C:\Keil_v5\ARM\ARMCC\include\cstddef)(0x588BC28C)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x588BC28C)
+I (C:\Keil_v5\ARM\ARMCC\include\rw\_strref.h)(0x564D8DA4)
+I (C:\Keil_v5\ARM\ARMCC\include\memory)(0x564D8DA6)
+I (C:\Keil_v5\ARM\ARMCC\include\new)(0x588BC28C)
+I (C:\Keil_v5\ARM\ARMCC\include\exception)(0x588BC28C)
+I (C:\Keil_v5\ARM\ARMCC\include\rw\_mutex.h)(0x564D8DA6)
+I (C:\Keil_v5\ARM\ARMCC\include\cstring)(0x588BC28C)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x588BC28C)
+I (C:\Keil_v5\ARM\ARMCC\include\rw\_traits.h)(0x564D8DA6)
+I (C:\Keil_v5\ARM\ARMCC\include\cstdio)(0x588BC28C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588BC28C)
+I (C:\Keil_v5\ARM\ARMCC\include\rw\_error.h)(0x564D8DA6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x589888D8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC28C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x588BC28C)
+F (.\objects.cpp)(0x5A66F94C)(--cpp -c --cpu Cortex-M4 -D__RTX -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\objects.o --omf_browse .\objects\objects.crf --depend .\objects\objects.d)
+F (.\Thread.c)(0x589888D8)(--c99 -c --cpu Cortex-M4 -D__RTX -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\thread.o --omf_browse .\objects\thread.crf --depend .\objects\thread.d)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x589888D8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC28C)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x588BC28C)
+F (.\tm4c123gh6pm.h)(0x51D4235A)()
+F (.\nokia5110.h)(0x595584D8)()
+F (.\startup.s)(0x57015C40)(--cpu Cortex-M4 --pd "__RTX SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 524" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1"--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
+F (.\ports.c)(0x5A4BE690)(--c99 -c --cpu Cortex-M4 -D__RTX -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\ports.o --omf_browse .\objects\ports.crf --depend .\objects\ports.d)
+I (tm4c123gh6pm.h)(0x51D4235A)
+F (.\clock.c)(0x59555B66)(--c99 -c --cpu Cortex-M4 -D__RTX -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\clock.o --omf_browse .\objects\clock.crf --depend .\objects\clock.d)
+I (tm4c123gh6pm.h)(0x51D4235A)
+F (.\timer.c)(0x596AAB9E)(--c99 -c --cpu Cortex-M4 -D__RTX -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\timer.o --omf_browse .\objects\timer.crf --depend .\objects\timer.d)
+I (tm4c123gh6pm.h)(0x51D4235A)
+F (.\uart.c)(0x5A673EC3)(--c99 -c --cpu Cortex-M4 -D__RTX -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+F (.\keypad.c)(0x596A984B)(--c99 -c --cpu Cortex-M4 -D__RTX -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\keypad.o --omf_browse .\objects\keypad.crf --depend .\objects\keypad.d)
+I (tm4c123gh6pm.h)(0x51D4235A)
+F (.\nokia5110.c)(0x595586BA)(--c99 -c --cpu Cortex-M4 -D__RTX -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\nokia5110.o --omf_browse .\objects\nokia5110.crf --depend .\objects\nokia5110.d)
+I (nokia5110.h)(0x595584D8)
+F (.\LCD.c)(0x596A8738)(--c99 -c --cpu Cortex-M4 -D__RTX -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\lcd.o --omf_browse .\objects\lcd.crf --depend .\objects\lcd.d)
+F (.\ADC.c)(0x596AAD00)(--c99 -c --cpu Cortex-M4 -D__RTX -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
+I (tm4c123gh6pm.h)(0x51D4235A)
+F (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS\RTX\LIB\ARM\RTX_CM3.lib)(0x589888D8)()
+F (RTE\CMSIS\RTX_Conf_CM.c)(0x589888D8)(--c99 -c --cpu Cortex-M4 -D__RTX -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\rtx_conf_cm.o --omf_browse .\objects\rtx_conf_cm.crf --depend .\objects\rtx_conf_cm.d)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x589888D8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC28C)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x588BC28C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS\RTX\INC\RTX_CM_lib.h)(0x589888D8)
